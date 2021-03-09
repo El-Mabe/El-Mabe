@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'am Julián 👋
+
+I'm a software engineering student, with great interest in web development and machine learning, I am a person who is passionate about technology and loves to learn new things every day, I am characterized for being responsable, proactive and creative. Who can contribute great things to a work team, I adapt easily to new challenges and seek solutions to problems that arise sporadically. I firmly believe that currently if we can imagine, we can program it.
 
 <!--
 **El-Mabe/El-Mabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
