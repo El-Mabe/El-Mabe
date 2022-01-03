@@ -2,7 +2,7 @@
 
 ## Hi, I'am Julián 👋
 
-I'm a software engineering student, with great interest in full stack development and data analytics , I am a person who is passionate about technology and loves to learn new things every day, I am characterized for being responsable, proactive and creative. Who can contribute great things to a work team, I adapt easily to new challenges and seek solutions to problems that arise sporadically. I firmly believe that currently if we can imagine, we can program it.
+I'm a software engineer, with great interest in full stack development and data analytics , I am a person who is passionate about technology and loves to learn new things every day, I am characterized for being responsable, proactive and creative. Who can contribute great things to a work team, I adapt easily to new challenges and seek solutions to problems that arise sporadically. I firmly believe that currently if we can imagine, we can program it.
 
 # The TOP :star: :sparkles:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Mabe&langs_count=8)](https://github.com/El-Mabe/github-readme-stats)
